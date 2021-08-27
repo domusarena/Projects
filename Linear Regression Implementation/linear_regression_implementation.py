@@ -18,7 +18,6 @@ def fit_linear_regression (data_file):
 
     # plot data
     plt.scatter(X, y)
-    #plt.savefig("data.png")
     plt.show()
 
     X_new = np.hstack([np.ones((N,1)), X])

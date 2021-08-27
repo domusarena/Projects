@@ -9,7 +9,7 @@ visualisation).
 It is inspired by an implementation in Stanford's Machine Learning course 
 found on Coursera but adapted to Python from Octave. 
 
-Since, I enjoy learning about the mathematical and statistical 
+Since I enjoy learning about the mathematical and statistical 
 foundations of machine learning algorithms, this was a fun project
 to also enhance my ability using Numpy matrices through vectorisation
 of relevant formulae.

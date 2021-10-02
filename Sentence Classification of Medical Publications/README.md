@@ -1,5 +1,5 @@
 
-# Classifications of Sentences from Medical Publications
+# Classification of Sentences from Medical Publications
 
 This project involved the application of natural language 
 processing (NLP) techniques to classify the sentences of 

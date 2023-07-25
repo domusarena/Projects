@@ -1,0 +1,7 @@
+"account_number","month","key","value","_version","_current"
+"10000001","202301","account_number","10000001","20230125T000000","1"
+"10000001","202301","customer_name","Dom's Telco Business","20230125T000000","1"
+"10000001","202301","amount_payable","74.9999","20230125T000000","1"
+"10000002","202301","account_number","10000002","20230125T000000","1"
+"10000002","202301","customer_name","Data Addiction Telecom","20230125T000000","1"
+"10000002","202301","amount_payable","35.72","20230125T000000","1"

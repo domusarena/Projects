@@ -1,3 +1,3 @@
 # Projects
 
-Data engineering and data sciences projects I have undertaken either independently, through work or study.
+Data engineering and data sciences projects I have undertaken either independently, through work or with an education institution.

@@ -1,0 +1,320 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <GDALRasterAttributeTable tableType="thematic">
+      <FieldDefn index="0">
+        <Name>Value</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>Count</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>L1N</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>L1_DESC</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="4">
+        <Name>L2N</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="5">
+        <Name>L2_DESC</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="6">
+        <Name>L3N</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="7">
+        <Name>L3_DESC</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="8">
+        <Name>L4N</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="9">
+        <Name>L4_DESC</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>-1</F>
+        <F>168822267</F>
+        <F>-1</F>
+        <F>Offshore</F>
+        <F>-1</F>
+        <F>Offshore</F>
+        <F>-1</F>
+        <F>Offshore</F>
+        <F>-1</F>
+        <F>Offshore</F>
+      </Row>
+      <Row index="1">
+        <F>0</F>
+        <F>142763</F>
+        <F>0</F>
+        <F>No data/unresolved</F>
+        <F>0</F>
+        <F>No data/unresolved</F>
+        <F>0</F>
+        <F>No data/unresolved</F>
+        <F>0</F>
+        <F>No data/unresolved</F>
+      </Row>
+      <Row index="2">
+        <F>1001</F>
+        <F>23091313</F>
+        <F>1</F>
+        <F>Freehold</F>
+        <F>10</F>
+        <F>Freehold</F>
+        <F>100</F>
+        <F>Freehold</F>
+        <F>1001</F>
+        <F>Freehold</F>
+      </Row>
+      <Row index="3">
+        <F>1002</F>
+        <F>14821585</F>
+        <F>1</F>
+        <F>Freehold</F>
+        <F>10</F>
+        <F>Freehold</F>
+        <F>100</F>
+        <F>Freehold</F>
+        <F>1002</F>
+        <F>Freehold - Indigenous</F>
+      </Row>
+      <Row index="4">
+        <F>2111</F>
+        <F>315257</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>211</F>
+        <F>Freeholding lease</F>
+        <F>2111</F>
+        <F>Freeholding lease</F>
+      </Row>
+      <Row index="5">
+        <F>2121</F>
+        <F>13625314</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>212</F>
+        <F>Pastoral perpetual lease</F>
+        <F>2121</F>
+        <F>Pastoral perpetual lease</F>
+      </Row>
+      <Row index="6">
+        <F>2122</F>
+        <F>33767</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>212</F>
+        <F>Pastoral perpetual lease</F>
+        <F>2122</F>
+        <F>Pastoral perpetual lease - Indigenous</F>
+      </Row>
+      <Row index="7">
+        <F>2131</F>
+        <F>3124401</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>213</F>
+        <F>Other perpetual lease</F>
+        <F>2131</F>
+        <F>Other perpetual lease</F>
+      </Row>
+      <Row index="8">
+        <F>2132</F>
+        <F>17023</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>213</F>
+        <F>Other perpetual lease</F>
+        <F>2132</F>
+        <F>Other perpetual lease - Indigenous</F>
+      </Row>
+      <Row index="9">
+        <F>2141</F>
+        <F>33820003</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>214</F>
+        <F>Pastoral term lease</F>
+        <F>2141</F>
+        <F>Pastoral term lease</F>
+      </Row>
+      <Row index="10">
+        <F>2142</F>
+        <F>275853</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>214</F>
+        <F>Pastoral term lease</F>
+        <F>2142</F>
+        <F>Pastoral term lease  - Indigenous</F>
+      </Row>
+      <Row index="11">
+        <F>2151</F>
+        <F>514065</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>215</F>
+        <F>Other term lease</F>
+        <F>2151</F>
+        <F>Other term lease</F>
+      </Row>
+      <Row index="12">
+        <F>2152</F>
+        <F>4789</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>215</F>
+        <F>Other term lease</F>
+        <F>2152</F>
+        <F>Other term lease - Indigenous</F>
+      </Row>
+      <Row index="13">
+        <F>2161</F>
+        <F>355427</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>216</F>
+        <F>Other lease</F>
+        <F>2161</F>
+        <F>Other lease</F>
+      </Row>
+      <Row index="14">
+        <F>2162</F>
+        <F>904838</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>21</F>
+        <F>Leasehold</F>
+        <F>216</F>
+        <F>Other lease</F>
+        <F>2162</F>
+        <F>Other lease - Indigenous</F>
+      </Row>
+      <Row index="15">
+        <F>2211</F>
+        <F>9252673</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>22</F>
+        <F>Crown purposes</F>
+        <F>221</F>
+        <F>Nature conservation reserve</F>
+        <F>2211</F>
+        <F>Nature conservation reserve</F>
+      </Row>
+      <Row index="16">
+        <F>2212</F>
+        <F>292475</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>22</F>
+        <F>Crown purposes</F>
+        <F>221</F>
+        <F>Nature conservation reserve</F>
+        <F>2212</F>
+        <F>Nature conservation reserve - Indigenous</F>
+      </Row>
+      <Row index="17">
+        <F>2221</F>
+        <F>1784884</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>22</F>
+        <F>Crown purposes</F>
+        <F>222</F>
+        <F>Multiple-use public forest</F>
+        <F>2221</F>
+        <F>Multiple-use public forest</F>
+      </Row>
+      <Row index="18">
+        <F>2231</F>
+        <F>1435306</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>22</F>
+        <F>Crown purposes</F>
+        <F>223</F>
+        <F>Other Crown purposes</F>
+        <F>2231</F>
+        <F>Other Crown purposes</F>
+      </Row>
+      <Row index="19">
+        <F>2232</F>
+        <F>3209663</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>22</F>
+        <F>Crown purposes</F>
+        <F>223</F>
+        <F>Other Crown purposes</F>
+        <F>2232</F>
+        <F>Other Crown purposes - Indigenous</F>
+      </Row>
+      <Row index="20">
+        <F>2301</F>
+        <F>16109116</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>23</F>
+        <F>Other Crown land</F>
+        <F>230</F>
+        <F>Other Crown land</F>
+        <F>2301</F>
+        <F>Other Crown land</F>
+      </Row>
+      <Row index="21">
+        <F>2302</F>
+        <F>7695</F>
+        <F>2</F>
+        <F>Crown land</F>
+        <F>23</F>
+        <F>Other Crown land</F>
+        <F>230</F>
+        <F>Other Crown land</F>
+        <F>2302</F>
+        <F>Other Crown land - Indigenous</F>
+      </Row>
+    </GDALRasterAttributeTable>
+  </PAMRasterBand>
+</PAMDataset>
